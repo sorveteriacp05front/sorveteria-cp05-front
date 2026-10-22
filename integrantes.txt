@@ -1,0 +1,7 @@
+Integrantes: 
+
+Arthur Caram Fiorese Herrada - RM 569578 (Tech Lead)
+Felipi Bandeira de Godoy - RM 573741
+Matheus Sequeira Franco da Silva - RM 571127
+
+Link do repositório: https://github.com/sorveteriacp05front/sorveteria-cp05-front.git
