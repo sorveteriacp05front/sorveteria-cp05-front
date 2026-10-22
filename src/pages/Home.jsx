@@ -1,12 +1,16 @@
 import Card from '../components/Card'
+import Sorvete1 from '../assets/sorvete1.jpg'
+import Sorvete2 from '../assets/sorvete2.jpg'
+import Sorvete3 from '../assets/sorvete3.jpg'
+import Sorvete4 from '../assets/sorvete4.jpg'
 
 
 const Home = () => {
     const sorvetes = [
-        { id: 1, titulo: "-", preco: "R$ -", imagem: sorvete1 },
-        { id: 2, titulo: "-", preco: "R$ -", imagem: sorvete2 },
-        { id: 3, titulo: "-", preco: "R$ -", imagem: sorvete3 },
-        { id: 4, titulo: "-", preco: "R$ -", imagem: sorvete4 }
+        { id: 1, titulo: "Copinho de baunilha", preco: "R$ 25,99", imagem: Sorvete1 },
+        { id: 2, titulo: "Casquinha de chcocolate", preco: "R$ 3,99", imagem: Sorvete2 },
+        { id: 3, titulo: "Casquinha de morango", preco: "R$ 5,99", imagem: Sorvete3 },
+        { id: 4, titulo: "Casquinha de pistache", preco: "R$ 8,99", imagem: Sorvete4 }
     ];
 
     return (
